@@ -1,0 +1,6 @@
+{
+  "name": "The Career Guru Academy",
+  "description": "Premier competitive-exam coaching platform for WBCS, PSC, SSC, RRB, Banking, TET, and CTET.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

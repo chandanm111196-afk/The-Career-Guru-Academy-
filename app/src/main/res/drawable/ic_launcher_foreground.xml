@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center Graduation Cap -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,28 L30,40 L54,52 L78,40 Z" />
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M38,44 L38,56 C38,62 70,62 70,56 L70,44 L54,52 Z" />
+    <!-- Tassel -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.8"
+        android:pathData="M70,43 L76,51 L76,57" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M74,57 L78,57 L78,61 L74,61 Z" />
+    <!-- Open Book -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,60 C38,58 48,58 52,62 L52,78 C48,74 38,74 32,76 Z" />
+    <path
+        android:fillColor="#F1F5F9"
+        android:pathData="M76,60 C70,58 60,58 56,62 L56,78 C60,74 70,74 76,76 Z" />
+    <!-- Golden Star of Achievement -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,63 L55.5,67.5 L60.2,67.5 L56.4,70.3 L57.8,74.8 L54,72 L50.2,74.8 L51.6,70.3 L47.8,67.5 L52.5,67.5 Z" />
+    <!-- Laurel Wreath Leaves Left -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M26,50 C24,47 22,43 23,39 C26,41 28,45 28,49 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M24,62 C21,59 20,54 22,50 C25,52 26,57 26,61 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M26,73 C23,71 22,66 25,62 C27,65 28,69 28,73 Z" />
+    <!-- Laurel Wreath Leaves Right -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M82,50 C84,47 86,43 85,39 C82,41 80,45 80,49 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M84,62 C87,59 88,54 86,50 C83,52 82,57 82,61 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M82,73 C85,71 86,66 83,62 C81,65 80,69 80,73 Z" />
+</vector>
